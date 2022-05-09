@@ -1,7 +1,9 @@
 # | --------------------------------------------------------------
 # | Auteurs : Gary Bloch, Ornella Fettaya, Mathias Marciano
-# | Contributeur actif : samcarter_at_topanswers
 # | Description : Code utilisé pour mémoire sur le Modèle de Cox
+# | Commentaire : nous conseillons l'utilisation de Rstudio cloud
+# | pour compiler le code sinon il sera difficile d'importer la
+# | librairie timereg
 # | --------------------------------------------------------------
 
 #---------------------Librairies utilisées-------------------
